@@ -19,7 +19,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "80d6af30-017e-4f75-91dd-ae52b259b802",
     "website": "congress-and-the-american-political-system-ii"
   },
   "course_title": "Congress and the American Political System II",
@@ -31,11 +31,12 @@
   "extra_course_numbers": "",
   "primary_course_number": "17.262",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "7cd25af7-0778-42ec-a6ed-54bf05abfcab",
     "website": "congress-and-the-american-political-system-ii"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Readings"
   ],
   "site_uid": "62161f00-0d47-4be6-9c10-7de4a1b987ed",
   "site_short_id": "17.262-spring-2023"
