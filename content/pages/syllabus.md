@@ -17,10 +17,10 @@ The purpose of this class is to prepare graduate students for professional resea
 
 We will be reading excerpts from numerous books during the semester. I suggest you buy them all, so that you can read them through later on your own time, and can refer to them throughout your career. Large enough portions of the following books will be read that I strongly encourage you to purchase your own copies, rather than attempt to read them online:
 
-- David R. Mayhew. 2004. *Congress: The Electoral Connection*. 2<sup>nd</sup> ed. Yale University Press. ISBN: ‎9780300105872. \[Preview with [Google Books](https://www.google.com/books/edition/Congress/j17QomTrD1EC?hl=en&gbpv=1)\]
-- Keith Krehbiel. 1998. *Pivotal Politics*. University of Chicago Press. ISBN: ‎9780226452722. \[Preview with [Google Books](https://www.google.com/books/edition/Pivotal_Politics/UL5-5GW9kQkC?hl=en&gbpv=1)\]
-- David W. Rohde. 1991. *Parties and Leaders in the Postreform House of Representatives*. University of Chicago Press. ISBN: ‎9780226724072. \[Preview with [Google Books](https://www.google.com/books/edition/Parties_and_Leaders_in_the_Postreform_Ho/gKP4GZ_dn90C?hl=en&gbpv=1)\]
-- Gary W. Cox and Matthew D. McCubbins. 2005. *Setting the Agenda*. Cambridge University Press. ISBN: ‎9780521619967. \[Preview with [Google Books](https://www.google.com/books/edition/Setting_the_Agenda/fm9qVy379AQC?hl=en&gbpv=1)\]
+- David R. Mayhew. 2004. *Congress: The Electoral Connection*. 2<sup>nd</sup> ed. Yale University Press. ISBN: ‎9780300105872. \[Preview with {{% resource_link "3567c42c-5732-4742-bbc0-83252ca59fdd" "Google Books" %}}\]
+- Keith Krehbiel. 1998. *Pivotal Politics*. University of Chicago Press. ISBN: ‎9780226452722. \[Preview with {{% resource_link "92d852fa-c3b6-42cf-b597-de5f9e542fea" "Google Books" %}}\]
+- David W. Rohde. 1991. *Parties and Leaders in the Postreform House of Representatives*. University of Chicago Press. ISBN: ‎9780226724072. \[Preview with {{% resource_link "68a09e9f-c392-4ff4-91ab-de9c7b8e88e9" "Google Books" %}}\]
+- Gary W. Cox and Matthew D. McCubbins. 2005. *Setting the Agenda*. Cambridge University Press. ISBN: ‎9780521619967. \[Preview with {{% resource_link "1ca7a722-1b89-40a9-b54c-c50381025a88" "Google Books" %}}\]
 
 I am also assuming that everyone is familiar with the basics of congressional politics. I will include the second edition of my textbook, *Analyzing Congress*. Because it is twelve years old, it is out of date with respect to recent developments, but its general approach is what I will be pursuing in this class. If you’d like a more contemporary textbook to use, I’d recommend Steven S. Smith, Jason M. Roberts, and Ryan J. Vander Wilen, *The American Congress* or E.Scott Adler, Jeffery A. Jenkins, and Charles R. Shipan, *The United States Congress*.
 
